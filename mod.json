@@ -1,0 +1,11 @@
+{
+  "id": "websocket",
+  "name": "WebSocket",
+  "author": "0k0k4",
+  "version": "0.3.0",
+  "description": "WebSocket client (ws:// and wss://) for addon and microcontroller scripts: global table `websocket`.",
+  "main": "sf_websocket.dll",
+  "dependencies": [],
+  "native_deps": [],
+  "enabled_by_default": false
+}
