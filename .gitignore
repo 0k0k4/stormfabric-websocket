@@ -21,3 +21,6 @@ __pycache__/
 *.user
 Thumbs.db
 Desktop.ini
+
+# Local development notes
+PLAN.md

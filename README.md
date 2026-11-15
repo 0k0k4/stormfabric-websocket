@@ -150,4 +150,3 @@ microcontrôleurs chez chaque joueur qui a le mod.
   `build\ws_selftest.exe [--online]` (client) et `build\mod_test.exe` (API Lua via un faux
   hôte qui suit les règles du loader).
 - Test en jeu : `addon_test/script.lua` (commandes `?ws`) et `addon_test/mc_test.lua`.
-- Historique et décisions : `PLAN.md`.
